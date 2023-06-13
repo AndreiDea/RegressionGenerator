@@ -1,10 +1,10 @@
 # RegressionGenerator
 
 ## Intro
-This is a program that creates a linear regression model with statistics detailing gradient descent of any dataset with compatible data.
+This is a program that creates a linear regression model of any dataset with compatible data. In the future, I will also include details about the gradient descent for the model.
 
 ## Instructions
-User inputs a CSV file into a program, selects a set of columns that they would like inserted into linear regression, and the program generates a linear regression based on those columns and details statistics about the gradient descent.
+User inputs a CSV file into a program, selects a set of columns that they would like inserted into linear regression,  the program generates a linear regression model based on those columns, and displays a plot of the data and the linear regression.
 
 ## More details
-This program, rather than using the linear regression model implemented by scikit-learn, uses a custom written model of regression and gradient descent statistics. However, due to file system limitations, it is currently only available on MacOS. I am working on a Windows edition too, though, so stay tuned!
+This program is currently only available on MacOS due to file system limitations. I am working on a Windows edition too, though, so stay 
